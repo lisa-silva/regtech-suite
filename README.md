@@ -46,8 +46,8 @@ Prerequisites
 
 Clone the Repository:
 
-git clone [YOUR GITHUB REPO URL HERE]
-cd [your-comply-rag-repo-name]
+git clone https://github.com/lisa-silva/auditus-xai.git 
+cd lisa-silva/regtech-suite
 
 
 Create a Virtual Environment (venv):
